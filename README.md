@@ -63,7 +63,7 @@ y <- c(100, 95, 70, 90, 90, 90, 89, 100, 100)
 
 #### Output:
 
-![no1](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/799192fb-98e1-492e-a83c-3fd3ead5f4ed)
+![no1](https://cdn.discordapp.com/attachments/702797283795927123/1114013077969580052/no1.png)
 
 
 
@@ -107,7 +107,7 @@ zsum.test(
 
 #### Output:
 
-![no2](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/71886934-227a-4f1d-948b-67f014e7c1f1)
+![no2](https://cdn.discordapp.com/attachments/702797283795927123/1114013078292549692/no2.png)
 
 
 
@@ -168,7 +168,7 @@ Dari data di atas berilah keputusan serta kesimpulan yang didapatkan. Asumsikan 
 
     #### Output:
 
-    ![no3b](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/07c18e5c-fa92-4b98-aeb4-b2773a74d55d)
+    ![no3b](https://cdn.discordapp.com/attachments/702797283795927123/1114013343599050812/no3b.png)
 
 - #### Poin C
 
@@ -185,7 +185,7 @@ Dari data di atas berilah keputusan serta kesimpulan yang didapatkan. Asumsikan 
 
     #### Output:
 
-    ![no3c](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/2e27c9b1-3871-4369-ae81-53ce189c0199)
+    ![no3c](https://cdn.discordapp.com/attachments/702797283795927123/1114013343859081276/no3c.png)
 
 - #### Poin D
 
@@ -204,7 +204,7 @@ Dari data di atas berilah keputusan serta kesimpulan yang didapatkan. Asumsikan 
 
     #### Output:
 
-    ![no3d](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/037a3165-a4e1-41a2-8959-61956e4a4a11)
+    ![no3d](https://cdn.discordapp.com/attachments/702797283795927123/1114013344085581915/no3d.png)
 
 - #### Poin E
 
@@ -243,7 +243,7 @@ Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui p
 
     #### Output:
 
-    ![no4a](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/25f4e8f4-4f7e-4670-a019-a27c5dc5514f)
+    ![no4a](https://cdn.discordapp.com/attachments/702797283795927123/1114013344341442660/no4a.png)
 
 - #### Poin B
 
@@ -263,7 +263,7 @@ Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui p
 
     #### Output:
 
-    ![no4b](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/7966e598-2d02-4a60-a3b1-b5facf63d163)
+    ![no4b](https://cdn.discordapp.com/attachments/702797283795927123/1114013344622444665/no4b.png)
 
 - #### Poin C
 
@@ -282,4 +282,4 @@ Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk mengetahui p
 
     #### Output:
 
-    ![no4c](https://github.com/ddedida/Prak2_Probstat2023_C_5025211109/assets/108203648/b9c057d9-f030-4f32-977c-20ed4487a291)
+    ![no4c](https://cdn.discordapp.com/attachments/702797283795927123/1114013344899276820/no4c.png)
